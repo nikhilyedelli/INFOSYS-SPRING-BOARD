@@ -1,0 +1,10 @@
+#Assignment on Selection in Pseudo-code - Level 1
+move right
+use while loop
+use if loop in that
+move down
+move down
+else
+move right
+end if
+end while

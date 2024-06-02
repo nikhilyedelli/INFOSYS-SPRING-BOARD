@@ -1,0 +1,18 @@
+import turtle
+wn = turtle.Screen() # creates a graphics window
+wn.setup(540,508) # set window dimension
+
+alex = turtle.Turtle() # create a turtle named alex
+alex.shape("turtle") # alex looks like a turtle
+alex.color('red') # alex has a color
+
+alex.circle(50) # draws a circle of radius 50
+alex.forward(100) # alex moves 100 positions forward
+alex.left(90) # alex turns 90 degrees left
+alex.forward(100) # alex moves 100 positions forward
+alex.left(90) # alex turns 90 degrees left
+alex.forward(200)
+alex.left(90) # alex turns 90 degrees left
+alex.forward(100)
+alex.left(90)
+alex.forward(200)

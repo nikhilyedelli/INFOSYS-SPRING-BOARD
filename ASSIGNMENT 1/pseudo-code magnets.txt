@@ -1,0 +1,11 @@
+while(start!=end) do
+move forward
+if(right turn available)then
+turn right
+end if
+if(red key found)
+unlock red lock
+else if (blue key found) then
+unlock blue lock
+end if
+end while

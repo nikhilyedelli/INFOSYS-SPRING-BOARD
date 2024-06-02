@@ -1,0 +1,8 @@
+display nightsky
+display snow
+display moon
+add mountain
+add sheep
+for(counter=0, counter<=2 , counter=counter+1)
+add tree
+end for
